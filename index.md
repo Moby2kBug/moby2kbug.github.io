@@ -1,4 +1,4 @@
-# My Title
+# Perry Rhoodan
 Er ist hochgewachsen, von schlanker, fast schon hagerer Statur. Die Augen sind graublau, seine Haare dunkelblond. (PR
 
 Er hat seit dem Tag, als seine Schwester Deborah tödlich verunglückte, durch eine Verletzung eine kleine Narbe auf dem rechten Nasenflügel, die sich bei Erregung häufig weiß verfärbt und die er manchmal gedankenverloren reibt.
@@ -24,3 +24,9 @@ Er weiß ein gutes Frühstück am Morgen zu schätzen.
 Er ist sich im Klaren darüber, dass seine Fähigkeiten als Vater absolut begrenzt sind und er in vielem versagt hat. Dementsprechend nimmt er es seinen Kindern auch nicht übel, dass sie früher oder später gegen ihn aufbegehrten.
 
 Die Faszination für die Sterne begleitete ihn von Beginn an und verließ ihn nie, egal wie oft er sie betrachtete und bestaunte.
+
+## Character Traits
+* Groß
+* Hager
+* Graue Augen
+* Kantiges Gesicht
