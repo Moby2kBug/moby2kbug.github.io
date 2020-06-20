@@ -34,3 +34,5 @@ Die Faszination für die Sterne begleitete ihn von Beginn an und verließ ihn ni
 Zitat von Perry Rhodan:
 
 > Man könnte meinen, dass einem Menschen, der unsterblich ist, das Leben von gewöhnlichen Sterblichen gleichgültig werden könnte. Das Gegenteil ist der Fall. Mit jedem Jahr, das ich älter werde, begreife ich mehr von der Einzigartigkeit und Unersetzlichkeit jedes Lebens.
+
+<img src="https://www.perrypedia.de/mediawiki/images/1/11/825px-PR_Lexikon1_Illu_Perry_Rhodan_orig.jpg"/>
